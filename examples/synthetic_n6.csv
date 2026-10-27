@@ -1,0 +1,5 @@
+sample_id,RFU_1,RFU_2,RFU_3,RFU_4,RFU_5,RFU_6
+synthetic_flat,500,502,499,501,500,503
+synthetic_rising,700,900,1300,2100,3400,5100
+synthetic_weak,610,640,665,695,720,745
+synthetic_falling,850,810,780,750,730,710

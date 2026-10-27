@@ -1,0 +1,5 @@
+﻿sample_id,probability_positive,prediction,prediction_label,probability_cutoff,model_version
+synthetic_flat,0.017106934,0,Negative,0.593284010887146,aegis-net
+synthetic_rising,0.97533196,1,Positive,0.593284010887146,aegis-net
+synthetic_weak,0.8580763,1,Positive,0.593284010887146,aegis-net
+synthetic_falling,0.33332726,0,Negative,0.593284010887146,aegis-net
