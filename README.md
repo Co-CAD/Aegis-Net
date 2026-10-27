@@ -7,7 +7,6 @@ This package provides the final model underlying Aegis-Net and its inference cod
 ```text
 Aegis_GitHub/
 |-- README.md
-|-- README_cn.md
 |-- requirements.txt
 |-- .gitignore
 |-- models/
